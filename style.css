@@ -57,7 +57,7 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 3rem;
+    font-size: 1.75rem;
     font-weight: 700;
     letter-spacing: -0.5px;
 }
@@ -439,7 +439,7 @@ footer {
     }
     
     header h1 {
-        font-size: 2rem;
+        font-size: 1.35rem;
     }
     
     .subtitle {
